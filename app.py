@@ -17,7 +17,7 @@ st.markdown(
     <div style='background:#1a237e;padding:18px 28px;border-radius:10px;margin-bottom:8px'>
         <h1 style='color:white;margin:0;font-size:2rem'>University Student Analytics Dashboard</h1>
         <p style='color:#90caf9;margin:4px 0 0'>Data Mining &middot; Universidad de La Costa &middot; Prof. José Escorcia Gutiérrez, Ph.D.</p>
-        <p style='color:#bbdefb;margin:2px 0 0;font-size:0.85rem'><b>Team members:</b> [Member 1] &middot; [Member 2] &middot; [Member 3] &middot; [Member 4]</p>
+        <p style='color:#bbdefb;margin:2px 0 0;font-size:0.85rem'><b>Team members:</b> Juan David Villada Ureche</p>
     </div>
     """,
     unsafe_allow_html=True,
