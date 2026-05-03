@@ -1,4 +1,4 @@
-# 🎓 University Student Analytics Dashboard
+#  University Student Analytics Dashboard
 
 **Activity I – Data Visualization and Dashboard Deployment**  
 Data Mining · Universidad de La Costa  
@@ -6,21 +6,18 @@ Prof. José Escorcia Gutiérrez, Ph.D.
 
 ---
 
-## 👥 Team Members
-- [Member 1 – Full Name]
-- [Member 2 – Full Name]
-- [Member 3 – Full Name]
-- [Member 4 – Full Name]
+##  group 
+juan david villada ureche
 
 ---
 
-## 📌 Purpose
+##  Purpose
 
 This dashboard provides interactive visualizations over a university's student admission, enrollment, retention, and satisfaction data (2015–2024). It supports data-driven decision-making by surfacing trends across academic years, terms, and departments.
 
 ---
 
-## 📊 Features
+##  Features
 
 | Visualization | Type | Description |
 |---|---|---|
@@ -39,7 +36,7 @@ This dashboard provides interactive visualizations over a university's student a
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ```bash
 # 1. Clone the repository
@@ -57,13 +54,13 @@ The app will open at `http://localhost:8501`.
 
 ---
 
-## ☁️ Deployed App
+##  Deployed App
 
-🔗 **Live dashboard:** [https://your-app.streamlit.app](https://your-app.streamlit.app)
+ **Live dashboard:** [https://your-app.streamlit.app](https://your-app.streamlit.app)
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── app.py               # Streamlit dashboard
@@ -73,7 +70,7 @@ The app will open at `http://localhost:8501`.
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - Retention rates improved steadily from **85 % (2015)** to **90 % (2024)**.
 - Student satisfaction rose from **78 %** to **88 %** over the same period.
